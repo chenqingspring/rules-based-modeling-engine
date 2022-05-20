@@ -22,7 +22,7 @@
 ## 演示地址
 
 **沉睡会员模型**：为每位导购筛选最多 20 名沉睡会员，且满足年龄、消费时间、消费次数等条件。
-<img src="./modeling-case-1.png" height="800px">
+<img src="./modeling-case-1.png?raw=true" height="800px">
 
 ## 应用场景
 ## 实现原理
